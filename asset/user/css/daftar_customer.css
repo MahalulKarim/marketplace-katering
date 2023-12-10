@@ -1,0 +1,14 @@
+body {
+  background: #fff;
+}
+/* mengatur warna backgroud form */
+form {
+  background: #fff;
+  border: 1px solid rgb(196, 193, 193);
+}
+
+/* mengatur border dan padding class form-container */
+.form-container {
+  border-radius: 0px;
+  padding: 30px;
+}

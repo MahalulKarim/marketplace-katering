@@ -1,0 +1,25 @@
+
+.chat{
+	background: #DCDCDC;
+	border-width: 1px;
+border-style: solid;
+border-color: #D3D3D3;
+border-radius: 5px ;
+margin-top: 15px;
+padding: 5px;
+margin-right: 55%;
+
+}
+.chat2{
+	background: skyblue;
+	color: white;
+	border-width: 1px;
+border-style: solid;
+border-color: #D3D3D3;
+border-radius: 5px ;
+margin-top: 15px;
+padding: 5px;
+margin-left: 55%;
+
+}
+

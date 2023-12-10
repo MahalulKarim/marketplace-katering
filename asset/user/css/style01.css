@@ -1,0 +1,38 @@
+.row .card:hover{
+	box-shadow: 2px 2px 2px rgba(0,0,0,0.4);
+	transform: scale(1.0);
+}
+.ul .li{
+	text-decoration: none;
+}
+.pesan{
+	background-color: #E6E6FA;
+	border-radius: 9px;
+}
+.kotakbayar{
+	background-color: #E6E6FA;
+	border-radius: 3px solid red;
+}
+.kotakpenjual{
+	border-radius: 3px solid red;
+}
+.kotakprofilpenjual{
+	background-color: #E6E6FA;
+	border-radius: 3px solid red;
+	height: 150px;
+}
+.chat{
+		background: #a4d9ff;
+	border-width: 1px;
+border-style: solid;
+border-color: #D3D3D3;
+border-radius: 5px ;
+}
+
+.chat2{
+	background: #d3d1d3;
+	border-width: 1px;
+border-style: solid;
+border-color: #D3D3D3;
+border-radius: 5px ;
+}
